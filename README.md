@@ -3,7 +3,7 @@
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/saman-zubairr/"><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>&nbsp;&nbsp;
-<a href="https://github.com/SamanZubair"><img height="30" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></a>
+<a href="https://www.hackerrank.com/YOUR_USERNAME"><img height="30" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png"></a>
 </p>
 
 Hey there 👋
