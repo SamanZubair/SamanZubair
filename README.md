@@ -32,7 +32,7 @@ I appreciate clean frameworks, maintainable test suites, and debugging sessions 
 
 ### Currently Exploring 🌱
 
-Lately, I’ve been exploring performance testing, advanced Java concepts, CI/CD workflows, and ways to make automation frameworks more scalable and maintainable.
+Lately, I’ve been exploring performance testing, advanced Java concepts,Agentic AI and ways to make automation frameworks more scalable and maintainable.
 
 Day to day, I mostly work with Selenium WebDriver, Java, API Testing, and automation framework development.
 
